@@ -1,11 +1,11 @@
 # Sorting Algorithms Analysis 
 
-This repository contains the code, schematics, and reports for a CMOS VLSI design project. The project focuses on implementing and analyzing three sorting algorithms (Bubble Sort, Selection Sort, and Insertion Sort) in Verilog. The algorithms are synthesized using 180nm technology and evaluated for power consumption and timing performance.
+This repository contains the code, schematics, and reports for Analysis of Sorting Algorithms. The project focuses on implementing and analyzing three sorting algorithms (Bubble Sort, Selection Sort, and Insertion Sort) in Verilog. The algorithms are synthesized using 180nm technology and evaluated for power consumption and timing performance.
 
 ## Project Overview
 
 ### Objective
-The objective of this project is to implement Verilog code for sorting 8-bit unsigned numbers using three different algorithms: Bubble Sort, Selection Sort, and Insertion Sort. The sorted outputs are then analyzed in terms of timing and power when synthesized in a 180nm process.
+The objective of this project is to implement Verilog code for sorting 8-bit unsigned numbers using three different algorithms: Bubble Sort, Selection Sort, and Insertion Sort. The implementation is then analyzed in terms of timing and power when synthesized in a 180nm process.
 
 ## Repository Structure
 
